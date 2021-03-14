@@ -56,7 +56,7 @@
 #ATLAS PTRS:		Yes
 #BASE POINTER:		$38200
 //d77e = 5d97e
-#TABLE:			menusJP.tbl
+#TABLE:			battleJP.tbl
 #COMMENTS:		No
 #END BLOCK
 
